@@ -66,7 +66,7 @@
       'Spline',
       'Threshold',
     ],
-    Interactions: ['Tooltip', 'TooltipContext', 'Highlight', 'Voronoi', 'Transform'],
+    Interactions: ['Brush', 'Tooltip', 'TooltipContext', 'Highlight', 'Voronoi', 'Transform'],
     Geo: [
       'GeoContext',
       'GeoCircle',
