@@ -40,6 +40,6 @@
   }
 </script>
 
-<g {transform} {...$$restProps} on:click on:mousemove on:mouseleave>
+<g {transform} {...$$restProps} on:click on:mousedown on:mousemove on:mouseleave on:touchstart>
   <slot />
 </g>
